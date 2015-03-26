@@ -1,2 +1,3 @@
-# hello-world
-A hello-world repository
+Hi World, 
+
+This is an exercise I'm doing...
